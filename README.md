@@ -85,14 +85,6 @@ If you're building something interesting, feel free to reach out.
 
 <br>
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OleksandrHutsul&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br>
-
 ## 📫 Let's connect
 
 <p align="center">
